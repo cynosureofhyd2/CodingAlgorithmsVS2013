@@ -15,8 +15,6 @@ namespace CodingAlgorithms
             public int Max { get; set; }
         }
 
-
-
         public static int Find(List<int> array)
         {
             int result = 0;
